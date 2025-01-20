@@ -1,7 +1,9 @@
 # 🗳️ Blockchain Voting App
-![image](https://github.com/user-attachments/assets/54ef30fb-791b-4fc5-ac3a-93d39e846929)
-
-
+<div align="center">
+  <a href="https://blockchain-voting-app-tau.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/54ef30fb-791b-4fc5-ac3a-93d39e846929" alt="Image Description" width="500" height="500">
+  </a>
+</div>
 ## 🌟 Overview
 
 The **Blockchain Voting App** is a decentralized application designed to ensure **secure**, **transparent**, and **tamper-proof voting**. It provides a seamless user experience with features for registration, login, and vote casting. **Voting results are updated every 12 hours**, ensuring real-time insights and transparency.  
