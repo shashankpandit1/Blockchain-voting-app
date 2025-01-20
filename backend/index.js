@@ -162,7 +162,7 @@ async function generateUniqueVoterId() {
 }
 
 // Start Mining Process
-function startMiningProcess(interval = 600000) {
+function startMiningProcess(interval = 43200000) {
   setInterval(() => {
     votingSystem.minePendingVotes();
   }, interval);
