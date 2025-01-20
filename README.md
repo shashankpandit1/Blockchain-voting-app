@@ -1,7 +1,7 @@
 # 🗳️ Blockchain Voting App
 <div align="center">
   <a href="https://blockchain-voting-app-tau.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/54ef30fb-791b-4fc5-ac3a-93d39e846929" alt="Image Description" width="500" height="500">
+    <img src="https://github.com/user-attachments/assets/67c4451c-2836-433e-aa67-205f57207ff4" alt="Image Description" width="500" height="320">
   </a>
 </div>
 ## 🌟 Overview
@@ -68,23 +68,6 @@ Follow these steps to set up the application locally:
 
 ---
 
-## 🖼️ Screenshots
-
-### Process Overview
-1. **Step 1**: Register to create your Voter ID.
-2. **Step 2**: Log in to access voting rights.
-3. **Step 3**: Cast your vote and confirm.
-
----
-
-## 🛠️ Technology Stack
-
-- **Frontend**: React, React Router
-- **Styling**: TailwindCSS
-- **Blockchain**: Ethereum (or any secure blockchain platform)
-- **Backend**: Node.js, Express (optional for API integration)
-
----
 
 **🌐 Live Demo**: *https://blockchain-voting-app-tau.vercel.app/*  
 
